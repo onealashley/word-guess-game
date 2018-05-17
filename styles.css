@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: #97d8bd
+}
+
+
+img{
+    width: 100%;
+}
+
+div {
+    width: 960px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    color: green;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 40px;
+    margin: 0px;
+}
+
+p {
+    font-size: 30px;
+    margin: 0px;
+}
+
+#answer {
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 0px;
+}

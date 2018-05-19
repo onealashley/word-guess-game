@@ -8,8 +8,8 @@ img{
     width: 100%;
 }
 
-div {
-    width: 960px;
+.content {
+    width: 65%;
     margin: auto;
     text-align: center;
     font-family: 'Shadows Into Light', cursive;
@@ -22,17 +22,26 @@ h1 {
 }
 
 h3 {
-    font-size: 40px;
+    font-size: 60px;
     margin: 0px;
 }
 
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 22px; 
+    line-height: normal;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 40px;
+}
+
 p {
-    font-size: 30px;
+    font-size: 60px;
     margin: 0px;
 }
 
 #answer {
-    font-size: 40px;
+    font-size: 75px;
     font-weight: bolder;
     margin: 0px;
 }

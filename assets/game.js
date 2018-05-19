@@ -1,6 +1,7 @@
 function reset() {
     shouldContinue = true;
     computerChoice = wordList[Math.floor(Math.random() * wordList.length)];
+    console.log(computerChoice);
     guessedSoFar = [];
     answerArr = [];
     guesses = 10;
